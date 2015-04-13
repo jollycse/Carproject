@@ -1,0 +1,9 @@
+G:\CarHomework - Copy\Bolayer\bin\Debug\Bolayer.dll
+G:\CarHomework - Copy\Bolayer\bin\Debug\Bolayer.pdb
+G:\CarHomework - Copy\Bolayer\bin\Debug\DalLayer.dll
+G:\CarHomework - Copy\Bolayer\bin\Debug\Entity.dll
+G:\CarHomework - Copy\Bolayer\bin\Debug\DalLayer.pdb
+G:\CarHomework - Copy\Bolayer\bin\Debug\Entity.pdb
+G:\CarHomework - Copy\Bolayer\obj\Debug\BO.csprojResolveAssemblyReference.cache
+G:\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.dll
+G:\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.pdb

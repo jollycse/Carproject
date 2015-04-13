@@ -1,0 +1,14 @@
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\obj\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\obj\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\obj\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\obj\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+G:\CarHomework - Copy\Entity\bin\Debug\Entity.dll
+G:\CarHomework - Copy\Entity\bin\Debug\Entity.pdb
+G:\CarHomework - Copy\Entity\obj\Debug\Entity.dll
+G:\CarHomework - Copy\Entity\obj\Debug\Entity.pdb
+G:\CarHomework - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

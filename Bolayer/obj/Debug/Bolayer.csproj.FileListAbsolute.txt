@@ -1,0 +1,27 @@
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\obj\Debug\Bolayer.csprojResolveAssemblyReference.cache
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\bin\Debug\Bolayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\bin\Debug\Bolayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\bin\Debug\DalLayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\bin\Debug\DalLayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\obj\Debug\Bolayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Bolayer\obj\Debug\Bolayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\bin\Debug\Bolayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\bin\Debug\Bolayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\bin\Debug\DalLayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\bin\Debug\DalLayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.csprojResolveAssemblyReference.cache
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.pdb
+G:\CarHomework - Copy\Bolayer\bin\Debug\Bolayer.dll
+G:\CarHomework - Copy\Bolayer\bin\Debug\Bolayer.pdb
+G:\CarHomework - Copy\Bolayer\bin\Debug\DalLayer.dll
+G:\CarHomework - Copy\Bolayer\bin\Debug\Entity.dll
+G:\CarHomework - Copy\Bolayer\bin\Debug\DalLayer.pdb
+G:\CarHomework - Copy\Bolayer\bin\Debug\Entity.pdb
+G:\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.csprojResolveAssemblyReference.cache
+G:\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.dll
+G:\CarHomework - Copy\Bolayer\obj\Debug\Bolayer.pdb

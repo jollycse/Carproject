@@ -1,0 +1,7 @@
+G:\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.dll
+G:\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.pdb
+G:\CarHomework - Copy\DalLayer\bin\Debug\Entity.dll
+G:\CarHomework - Copy\DalLayer\bin\Debug\Entity.pdb
+G:\CarHomework - Copy\DalLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.dll
+G:\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.pdb
